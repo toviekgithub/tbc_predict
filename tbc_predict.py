@@ -83,7 +83,7 @@ if uploaded_file is not None:
 
 # Informasi tambahan tentang model
 st.markdown("---")
-st.subheader("Informasi tentang Model")
+st.subheader("[ Informasi tentang Model ]")
 st.write("- Prediksi Image X-Ray | Model EfficientNetB0")
 st.write("- Tugas Bussines Data Engineering | Toviek Hidayat")
-st.write("- UR | Juli 2024")
+st.write("- [ UR | Juli 2024 ]")
