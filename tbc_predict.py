@@ -33,7 +33,7 @@ st.title("Prediksi Penyakit Tuberkulosis")
 
 # Deskripsi aplikasi
 st.markdown("""
-          Di halaman ini, Unggah gambar Image X-Ray diprediksi apakah menunjukkan gejala Tuberkulosis atau tidak.
+          Unggah gambar Image X-Ray diprediksi apakah menunjukkan gejala Tuberkulosis atau tidak.
           """)
 
 # Seksi unggah gambar
@@ -86,4 +86,4 @@ st.markdown("---")
 st.subheader("Informasi tentang Model")
 st.write("- Prediksi Image X-Ray | Model EfficientNetB0")
 st.write("- Tugas Bussines Data Engineering | Toviek Hidayat")
-st.write("- UR Juli 2024")
+st.write("- UR | Juli 2024")
