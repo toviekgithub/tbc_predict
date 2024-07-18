@@ -85,5 +85,5 @@ if uploaded_file is not None:
 st.markdown("---")
 st.subheader("Informasi tentang Model")
 st.write("- Prediksi Image X-Ray | Model EfficientNetB0")
-st.write("- Bussines Data Engineering | Toviek Hidayat")
-st.write("- Universitas Raharja")
+st.write("- Tugas Bussines Data Engineering | Toviek Hidayat")
+st.write("- UR Juli 2024")
